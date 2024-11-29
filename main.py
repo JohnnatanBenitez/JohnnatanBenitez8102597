@@ -1,5 +1,8 @@
 def main():
-    print("Gracias Profesor Jonathan por sus Enseñanzas, aprendí demasiado con su metodología")
+    nombre: "Jonathan Sanchez"
+    print("Gracias Profesor " ,nombre, " por sus Enseñanzas, aprendí demasiado con su metodología"),
+    
+ 
  
 if __name__ == "__main__":
     main()
